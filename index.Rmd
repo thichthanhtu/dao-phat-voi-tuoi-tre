@@ -1,0 +1,41 @@
+---
+title: "Đạo Phật Với Tuổi Trẻ"
+author: "HT. Thích Thanh Từ"
+site: bookdown::bookdown_site
+fontsize: 12pt
+output:
+  bookdown::gitbook:
+    config:
+      fontsettings:
+        theme: night
+        family: serif
+        size: 4
+
+      search:
+            engine: fuse
+            options:
+              keys: ["heading", "text", "code"]
+              ignoreLocation: true
+              ignoreFieldNorm: true
+              threshold: 0.1
+              includeMatches: true
+              includeScore: true
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+classoption: oneside
+
+description: "Đạo Phật Với Tuổi Trẻ - HT. Thích Thanh Từ"
+cover-image: "images/cover.png"
+---
+# Lời nói đầu {- #loi-noi-dau}
+
+Từ lâu người đời quan niệm Đạo Phật dành riêng cho những bậc lão niên, những người yếm thế. Do đó, hàng thanh niên chưa hiểu đạo Phật là gì nên xem thường, bàng quan và tránh xa đạo Phật. Vì họ sợ gần đạo Phật sẽ lây cho họ một tinh thần bi quan, một tư tưởng bạc nhược. Gia đình Phật tử Việt Nam ra đời đã trả lời quan niệm sai lầm ấy.  
+  
+Trong thời gian giảng giải giáo lý cho đoàn thanh thiếu niên Phật tử, cũng như viết bài đăng trong những Nội san của các gia đình, tôi đã soạn được một số bài Giáo lý thích hợp với tuổi trẻ, hoặc đã đăng, hoặc chưa đăng trong các Nội san.  
+  
+Để phổ biến rộng hơn, tôi góp nhặt lại, cho in vào đây gọi là một hạt cát tô bồi vào tòa lâu đài Phật giáo; cũng có thể gọi là vài tia sáng nhỏ soi đường cho hàng thanh niên trong khi lạc lõng giữa rừng mê.  
+  
+Để thực hiện ý chí ấy, tôi không ngần ngại cho tập sách này ra đời, mặc dù còn mang nhiều thiếu sót và một số nhận thức quá thô thiển, mong quí vị thông cảm mà hỉ xả cho.  
+  
+<div class="align-right">**Thích Thanh Từ**</div>
