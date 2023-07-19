@@ -40,6 +40,10 @@ p.author {
   text-align: right;
 }
 
+.align-center {
+  text-align: center;
+}
+
 p {
   text-indent: 1.2em;
 }
@@ -50,4 +54,18 @@ blockquote p, li p {
 
 .align-right blockquote {
   border-left: 0 !important;
+}
+
+.align-center blockquote {
+  border-left: 0 !important;
+};
+
+/* PART in menu */
+
+.book.color-theme-1 .book-summary ul.summary li.part span {
+  border-top: 1px solid #7e888b;
+}
+
+.book.color-theme-2 .book-summary ul.summary li.part span {
+  border-top: 1px solid #1C1F2B;
 }
